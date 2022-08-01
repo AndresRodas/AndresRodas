@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies, frameworks and quick hacks.\
 🎓 &nbsp;I'm currently studying Science and Systems engineering at Universidad de San Carlos de Guatemala.\
 🎵 &nbsp;Lofi-coding music is love 💕.\
-✉️ &nbsp;You can send me an email at control.chi10@gmail.com.\
+✉️ &nbsp;You can send me an email at control.chi10@gmail.com.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
