@@ -1,12 +1,12 @@
 
-<img alt="NC" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Andres</h2>
+<img alt="NC" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Andres 🤏😎</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies, frameworks and quick hacks.
-🎓 &nbsp;I'm currently studying Science and Systems engineering at Universidad de San Carlos de Guatemala.
-🎵 &nbsp;Lofi-coding music is love 💕.
-✉️ &nbsp;You can send me an email at control.chi10@gmail.com.
+💡 &nbsp;I like to explore new technologies, frameworks and quick hacks.\
+🎓 &nbsp;I'm currently studying Science and Systems engineering at Universidad de San Carlos de Guatemala.\
+🎵 &nbsp;Lofi-coding music is love 💕.\
+✉️ &nbsp;You can send me an email at control.chi10@gmail.com.\
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
@@ -30,8 +30,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
