@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://github.com/AndresRodas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresRodas&count_private=true&show_icons=true&hide=contribs,stars&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresRodas&count_private=true&show_icons=true&hide=contribs,stars&theme=synthwave&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndresRodas&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
